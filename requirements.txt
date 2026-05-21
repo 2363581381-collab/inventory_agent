@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+plotly
+openpyxl
+添加依赖库清单
